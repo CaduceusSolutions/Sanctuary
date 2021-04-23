@@ -1,0 +1,78 @@
+body{
+    background: #25303B;
+}
+
+p{
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+
+h2 {
+    color: white;
+}
+
+
+h3 {
+    color: white;
+}
+
+
+h4 {
+    color: white;
+}
+
+
+h5 {
+    color: white;
+}
+
+
+h6 {
+    color: white;
+}
+
+
+h7 {
+    color: white;
+}
+
+
+
+
+#pushdown{
+    margin-top: 5%;
+}
+
+/* #putimage{
+    background-image: url("images/shapelined-_JBKdviweXI-unsplash.jpg");
+} */
+
+/* #imageneeded{
+    background-image: url("images/backgroundimage.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+} */
+
+#makesmaller{
+    width: 50%;
+}
+
+#moveright{
+    float: right;
+    display: flex;
+}
+
+#makebigger{
+    width: 100%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
+
+.row div{
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+}
